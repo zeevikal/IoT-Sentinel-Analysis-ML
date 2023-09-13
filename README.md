@@ -1,6 +1,5 @@
 # Unveiling IoT: Harnessing ML for Device Identification through Network Traffic Analysis
 
-![IoT](https://www.example.com/iot_image.png)
 
 ## Introduction
 
