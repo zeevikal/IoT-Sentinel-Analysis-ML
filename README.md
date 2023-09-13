@@ -26,7 +26,7 @@ Our primary objectives in this research project include:
 The repository is organized as follows:
 
 ```
-📁 Unveiling-IoT-ML-Device-Identification
+📁 IoT-Sentinel-Analysis-ML
    |
    ├── 📄 README.md                         # This file, providing an overview of the project
    |
