@@ -1,5 +1,8 @@
 # Unveiling IoT: Harnessing ML for Device Identification through Network Traffic Analysis
 
+## Research Paper
+
+Our comprehensive research paper detailing the methods, findings, and insights of this project is available [here](https://www.example.com/your-research-paper.pdf).
 
 ## Introduction
 
