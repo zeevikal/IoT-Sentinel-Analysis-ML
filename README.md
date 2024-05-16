@@ -2,7 +2,7 @@
 
 ## Research Paper
 
-Our comprehensive research paper detailing the methods, findings, and insights of this project is available [here]([https://www.example.com/your-research-paper.pdf](https://medium.com/@zeevikal/unveiling-iot-harnessing-ml-for-device-identification-through-network-traffic-analysis-8579d47524c5)).
+Our comprehensive research paper detailing the methods, findings, and insights of this project is available [here](https://medium.com/@zeevikal/unveiling-iot-harnessing-ml-for-device-identification-through-network-traffic-analysis-8579d47524c5).
 
 ## Introduction
 
